@@ -1,0 +1,9 @@
+# PyInstaller runtime
+_internal/
+
+# Executables
+*.exe
+
+# Python cache
+__pycache__/
+*.pyc
